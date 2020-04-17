@@ -1,4 +1,4 @@
-# Azure Lunch and Learn
+# Cloud Lunch and Learn
 
 ## Scheduled Sessions
 
