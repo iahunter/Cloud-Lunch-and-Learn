@@ -1,6 +1,6 @@
-# Azure Lunch and Learn
+# Cloud Lunch and Learn
 
-This repository is a container to store all materials related to Azure Lunch and Learn sessions - <https://bit.ly/2K1Rcag>.
+This repository is a container to store all materials related to Cloud Lunch and Learn sessions - <https://bit.ly/2K1Rcag>.
 Every week we will have one or more speakers talking about Azure and providing materials so you can practice and learn. All materials will be stored in this repository.
 
 ## Sessions
